@@ -7,7 +7,7 @@ int main()
 {
 	int i, j, tmp, jumdata;
 	
-	system("cls");				//hapus layar
+	system("clrscr");				//hapus layar
 	
 	int data [] = {5, 100, 20, 31, 77, 88, 99, 20, 55, 1 };
 	
